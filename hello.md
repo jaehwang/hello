@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Blogging
+title: "Hello Blogging"
+theme: jekyll-theme-cayman
 ---
 
 # Hello
