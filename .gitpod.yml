@@ -2,7 +2,7 @@ image:
   file: .gitpod.dockerfile
 
 tasks:
-    - prebuild: make
+  - prebuild: make
 
 github:
   prebuilds:
